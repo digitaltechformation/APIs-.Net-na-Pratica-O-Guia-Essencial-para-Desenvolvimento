@@ -1,0 +1,14 @@
+Banco de Dados
+tipo = mysql
+versão = 8.0.40
+servidor = 127.0.0.1
+porta = 3306
+banco = recadosapi
+usuario = root
+senha = root
+
+ConnectionStrings
+server=127.0.0.1; database=recadosapi; user=root; password=root; sslmode=none; connection timeout=10;
+
+Scaffold
+scaffold-dbcontext "name=RecadosBD" -outputdir "Entidades" -contextdir "BDContextos" -context "RecadoContexto" -force -nopluralize Pomelo.EntityFrameWorkCore.MySql

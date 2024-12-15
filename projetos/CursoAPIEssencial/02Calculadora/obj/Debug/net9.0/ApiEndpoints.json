@@ -1,0 +1,131 @@
+[
+  {
+    "ContainingType": "Program\u002B\u003C\u003Ec",
+    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_0",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program",
+    "Method": "\u003C\u003CMain\u003E$\u003Eg__RetornoDividir|0_1",
+    "RelativePath": "api/calculadora/dividir",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "valor",
+        "Type": "Dados",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program",
+    "Method": "\u003C\u003CMain\u003E$\u003Eg__RetornoMultiplicar|0_4",
+    "RelativePath": "api/calculadora/multiplicar",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numero1",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "numero2",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program",
+    "Method": "\u003C\u003CMain\u003E$\u003Eg__RetornoSomar|0_2",
+    "RelativePath": "api/calculadora/somar/{numero1:double}/{numero2:double}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numero1",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "numero2",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Program",
+    "Method": "\u003C\u003CMain\u003E$\u003Eg__RetornoSubtrair|0_3",
+    "RelativePath": "api/calculadora/subtrair",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numero1",
+        "Type": "System.Double",
+        "IsRequired": true
+      },
+      {
+        "Name": "numero2",
+        "Type": "System.Double",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

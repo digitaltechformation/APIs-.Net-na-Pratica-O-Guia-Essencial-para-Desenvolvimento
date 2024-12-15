@@ -1,0 +1,14 @@
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\bin\Debug\net8.0\servidor.exe
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\bin\Debug\net8.0\servidor.deps.json
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\bin\Debug\net8.0\servidor.runtimeconfig.json
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\bin\Debug\net8.0\servidor.dll
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\bin\Debug\net8.0\servidor.pdb
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.AssemblyInfoInputs.cache
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.AssemblyInfo.cs
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.csproj.CoreCompileInputs.cache
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.dll
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\refint\servidor.dll
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.pdb
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\servidor.genruntimeconfig.cache
+D:\Workspace\Curso API\projetos\cliente-servidor\servidor\obj\Debug\net8.0\ref\servidor.dll
